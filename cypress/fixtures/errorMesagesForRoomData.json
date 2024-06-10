@@ -1,0 +1,4 @@
+{
+    "roomName": "Room name must be set",
+    "price": "must be greater than or equal to 1"
+  }

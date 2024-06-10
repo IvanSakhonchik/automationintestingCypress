@@ -1,0 +1,16 @@
+{
+  "name": "1",
+  "email": "test",
+  "phone": "123456",
+  "subject": "123",
+  "description": "Test description",
+  "errorNameAlertMessage": "Name may not be blank",
+  "errorEmailAlertMessage": "Email may not be blank",
+  "errorPhoneAlertMessage": "Phone may not be blank",
+  "errorSubjectAlertMessage": "Subject may not be blank",
+  "errorDescriptionAlertMessage": "Message may not be blank",
+  "errorSubjectLengthMessage": "Subject must be between 5 and 100 characters.",
+  "errorPhoneLengthMessage": "Phone must be between 11 and 21 characters.",
+  "errorDescriptionLengthAlertMessage": "Message must be between 20 and 2000 characters.",
+  "errorEmailDomainAlertMessage": "must be a well-formed email address"
+}
